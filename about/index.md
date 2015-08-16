@@ -9,26 +9,28 @@ comments: false
 modified: 2014-12-24
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+My name is Amaraj Judge && I'm here to entertain. Or at least to try. Hopefully. Maybe. Quite Possibly. Just guess we'll have to see.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+## What Are My Goals
+* Make others happy and feel all warm and fuzzy on the inside
+* Let people like they fit in, __Remember Kids__ its (it's? I never know) cool to be a nerd
+* Show minorities that we have a voice and its getting louder
+* Make people laugh (not your typical "lol" but your "LAWL", I want all the "LAWLS")
+* Avoid doing real work
+* Grow a beard, we all have dreams, let me have mine
 
-## What HPSTR brings to the table:
+## How Do I Plan On Doing This
+* Slam Poems
+* Raps
+* Videos
+* Tickling
+* Blogs
+* Praying to the old norse gods
+* Smiling till it hurts
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+## Why Do I Think I Can Do This
+* I don't but enough people haven't told me to quit yet so I am going to keep trying
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+## How Can You Be More Like Me
+* Always wear more floral
+* Seriously, no one has enough Hawaiian shirts and I can't let society go down this godforsaken path
