@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Amaraj (/ʌ, ə/ /mɪˈrɑːʒ/)
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
